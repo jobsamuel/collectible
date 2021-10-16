@@ -1,6 +1,6 @@
 {
-  "name": "collectable",
-  "version": "1.0.0",
+  "name": "collectible",
+  "version": "1.1.0",
   "description": "",
   "scripts": {
     "test": "npx hardhat test",

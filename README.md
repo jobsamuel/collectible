@@ -1,4 +1,4 @@
-# Collectable
+# Collectible
 
 > A simple NFT contract.
 
