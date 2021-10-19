@@ -2,7 +2,7 @@
 
 > A simple NFT contract.
 
-<!-- #### [Live demo](https://jobsa.co/collectable) -->
+#### [Live demo](https://jobsa.co/nft)
 
 ## usage
 
